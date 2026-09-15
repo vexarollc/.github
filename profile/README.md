@@ -1,7 +1,7 @@
 ![Vexaro](./assets/banner.png)
 
-[![Website](https://img.shields.io/badge/website-vexaro.cloud-6A60F5?style=for-the-badge&labelColor=221C3A)](https://vexaro.cloud)
-[![Vexaro Desk](https://img.shields.io/badge/product-Vexaro%20Desk-FF5A36?style=for-the-badge&labelColor=221C3A)](https://desk.vexaro.cloud)
+[![Website](https://img.shields.io/badge/website-vexaro.cloud-6A60F5?style=for-the-badge&labelColor=221C3A)](https://vexaro.cloud/en)
+[![Vexaro Desk](https://img.shields.io/badge/product-Vexaro%20Desk-FF5A36?style=for-the-badge&labelColor=221C3A)](https://desk.vexaro.cloud/en)
 [![Docs](https://img.shields.io/badge/docs-read-9089FF?style=for-the-badge&labelColor=221C3A)](https://desk.vexaro.cloud/en/docs)
 [![Trust Center](https://img.shields.io/badge/trust%20center-security-6A60F5?style=for-the-badge&labelColor=221C3A)](https://desk.vexaro.cloud/en/trust-center)
 
@@ -84,10 +84,11 @@ Native installers are currently in **private beta**. Browser-based access is ava
 
 | | |
 | :--- | :--- |
-| Website | [vexaro.cloud](https://vexaro.cloud) |
-| Vexaro Desk | [desk.vexaro.cloud](https://desk.vexaro.cloud) |
+| Website | [vexaro.cloud/en](https://vexaro.cloud/en) |
+| Vexaro Desk | [desk.vexaro.cloud/en](https://desk.vexaro.cloud/en) |
 | Documentation | [desk.vexaro.cloud/en/docs](https://desk.vexaro.cloud/en/docs) |
 | Trust center | [desk.vexaro.cloud/en/trust-center](https://desk.vexaro.cloud/en/trust-center) |
+| X | [@vexaro_llc](https://x.com/vexaro_llc) |
 | Contact | social@vexaro.cloud |
 
 Vexaro, LLC

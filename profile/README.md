@@ -1,22 +1,13 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Vexaro" width="100%" />
-</p>p>
+![Vexaro](./assets/banner.png)
 
-<p align="center">
-  <a href="https://vexaro.cloud"><img src="https://img.shields.io/badge/website-vexaro.cloud-6A60F5?style=for-the-badge&labelColor=221C3A" alt="Website" /></a>a>
-    <a href="https://desk.vexaro.cloud"><img src="https://img.shields.io/badge/product-Vexaro%20Desk-FF5A36?style=for-the-badge&labelColor=221C3A" alt="Vexaro Desk" /></a>a>
-      <a href="https://desk.vexaro.cloud/en/docs"><img src="https://img.shields.io/badge/docs-read-9089FF?style=for-the-badge&labelColor=221C3A" alt="Docs" /></a>a>
-        <a href="https://desk.vexaro.cloud/en/trust-center"><img src="https://img.shields.io/badge/trust%20center-security-6A60F5?style=for-the-badge&labelColor=221C3A" alt="Trust Center" /></a>a>
-</p>p>
+[![Website](https://img.shields.io/badge/website-vexaro.cloud-6A60F5?style=for-the-badge&labelColor=221C3A)](https://vexaro.cloud)
+[![Vexaro Desk](https://img.shields.io/badge/product-Vexaro%20Desk-FF5A36?style=for-the-badge&labelColor=221C3A)](https://desk.vexaro.cloud)
+[![Docs](https://img.shields.io/badge/docs-read-9089FF?style=for-the-badge&labelColor=221C3A)](https://desk.vexaro.cloud/en/docs)
+[![Trust Center](https://img.shields.io/badge/trust%20center-security-6A60F5?style=for-the-badge&labelColor=221C3A)](https://desk.vexaro.cloud/en/trust-center)
 
-<h3 align="center">A secure IT foundation for modern business</h3>h3>
+# A secure IT foundation for modern business
 
-<p align="center">
-Vexaro is built by engineers who spent years running production infrastructure and testing its security —<br />
-and who wanted remote access that IT teams could actually keep inside their own perimeter.
-</p>p>
-
----
+Vexaro is built by engineers who spent years running production infrastructure and testing its security — and who wanted remote access that IT teams could actually keep inside their own perimeter.
 
 ## Four products, one ecosystem
 
@@ -99,5 +90,4 @@ Native installers are currently in **private beta**. Browser-based access is ava
 | Trust center | [desk.vexaro.cloud/en/trust-center](https://desk.vexaro.cloud/en/trust-center) |
 | Contact | social@vexaro.cloud |
 
-<p align="center"><sub>Vexaro, LLC</sub>sub></p>p>
-</sub>
+Vexaro, LLC
